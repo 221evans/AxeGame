@@ -1,0 +1,3 @@
+/Users/jasonevans/CLionProjects/AxeGame/cmake-build-debug/CMakeFiles/AxeGame.dir
+/Users/jasonevans/CLionProjects/AxeGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jasonevans/CLionProjects/AxeGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
